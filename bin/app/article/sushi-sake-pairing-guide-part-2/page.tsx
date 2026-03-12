@@ -97,30 +97,30 @@ export default function SushiSakePairingGuidePart2() {
                                 <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16, justifyItems: 'center' }}>
                                     <div dangerouslySetInnerHTML={{ __html: `<a href="https://hb.afl.rakuten.co.jp/ichiba/4505c97a.4a2fc121.4505c97b.a33e306f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaidouselectshop%2Fdaiginjo-kokusimusou%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/4505c97a.4a2fc121.4505c97b.a33e306f/?me_id=1422749&item_id=10000062&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhokkaidouselectshop%2Fcabinet%2Ftanpin%2Fimgrc0092282936.jpg%3F_ex%3D300x300&s=300x300&t=pict" border="0" style="margin:2px" alt="" title=""></a>` }} />
                                     <div dangerouslySetInnerHTML={{ __html: `<a href="https://hb.afl.rakuten.co.jp/ichiba/4505c97a.4a2fc121.4505c97b.a33e306f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaidouselectshop%2Fkamikawa-gift2s_1%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/4505c97a.4a2fc121.4505c97b.a33e306f/?me_id=1422749&item_id=10000021&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhokkaidouselectshop%2Fcabinet%2Ftanpin%2Fimgrc0090023120.jpg%3F_ex%3D300x300&s=300x300&t=pict" border="0" style="margin:2px" alt="" title=""></a>` }} />
+                                    <div dangerouslySetInnerHTML={{ __html: `<a href="https://hb.afl.rakuten.co.jp/ichiba/4505c97a.4a2fc121.4505c97b.a33e306f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaidouselectshop%2Fdaiginjo-kokusimusou%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInprb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/4505c97a.4a2fc121.4505c97b.a33e306f/?me_id=1422749&item_id=10000062&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhokkaidouselectshop%2Fcabinet%2Ftanpin%2Fimgrc0092282936.jpg%3F_ex%3D300x300&s=300x300&t=pict" border="0" style="margin:2px" alt="" title=""></a>` }} />
+                                    <div dangerouslySetInnerHTML={{ __html: `<a href="https://hb.afl.rakuten.co.jp/ichiba/4505c97a.4a2fc121.4505c97b.a33e306f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaidouselectshop%2Fkamikawa-gift2s_1%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInprb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/4505c97a.4a2fc121.4505c97b.a33e306f/?me_id=1422749&item_id=10000021&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhokkaidouselectshop%2Fcabinet%2Ftanpin%2Fimgrc0090023120.jpg%3F_ex%3D300x300&s=300x300&t=pict" border="0" style="margin:2px" alt="" title=""></a>` }} />
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
 
-                {/* Conclusion */}
-                <section style={{ background: '#111', color: '#fff', padding: 48, borderRadius: 24, textAlign: 'center' }}>
-                    <h2 style={{ fontSize: 28, fontWeight: 800, marginBottom: 24, color: '#fff' }}>
-                        Science Proves the "Inevitable Harmony"
-                    </h2>
-                    <ul style={{ listStyle: 'none', padding: 0, margin: 0, fontSize: 18, lineHeight: 2, display: 'inline-block', textAlign: 'left', fontWeight: 500 }}>
-                        <li>✨ <strong>The Wash Effect (Kire):</strong> Cleansing the palate of fat.</li>
-                        <li>✨ <strong>Umami Synergy:</strong> Glutamic and Inosinic acids multiplying flavor.</li>
-                        <li>✨ <strong>Geographic Water Cycles:</strong> Terroir deeply connecting the sea and the brewery.</li>
-                    </ul>
-                </section>
-
-                {/* Navigation */}
-                <div style={{ marginTop: 40, borderTop: '1px solid #eaeaea', paddingTop: 40, display: 'flex', justifyContent: 'space-between' }}>
-                    <Link href="/article/sushi-sake-pairing-guide" style={{ display: 'inline-flex', alignItems: 'center', color: '#666', textDecoration: 'none', fontSize: 16, fontWeight: 600 }}>
-                        <span style={{ marginRight: 8 }}>←</span>
-                        Part 1: Akazu vs Shirozu
-                    </Link>
+                {/* Conclusion & Navigation */}
+                <div style={{ marginTop: 60, borderTop: '1px solid #eaeaea', paddingTop: 40, textAlign: 'center' }}>
+                    <h3 style={{ fontSize: 24, fontWeight: 700, marginBottom: 16, color: '#111' }}>
+                        Knowledge is Flavor
+                    </h3>
+                    <p style={{ fontSize: 18, color: '#666', lineHeight: 1.6, marginBottom: 32 }}>
+                        "Wash effect" cuts through fat. "Umami synergy" creates explosions of flavor. And the subtle differences in "terroir"—like hard minerality vs soft purity—dictate the perfect marriage on your palate. Ready for the final step?
+                    </p>
+                    <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>
+                        <Link href="/article/sushi-sake-pairing-guide" style={{ padding: '16px 32px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'all 0.2s' }}>
+                            ← Back to Part 1: Vinegar Base
+                        </Link>
+                        <Link href="/article/sushi-sake-pairing-guide-part-3" style={{ padding: '16px 32px', background: '#111', color: '#fff', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'all 0.2s', boxShadow: '0 4px 14px rgba(0,0,0,0.1)' }}>
+                            Part 3: Practical Edition →
+                        </Link>
+                    </div>
                 </div>
 
             </div>

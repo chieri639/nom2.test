@@ -225,12 +225,17 @@ export default function SushiSakePairingGuide() {
                     </div>
                 </section>
 
-                {/* Navigation to Part 2 */}
+                {/* Navigation to Part 2 & 3 */}
                 <div style={{ marginTop: 60, borderTop: '1px solid #eaeaea', paddingTop: 40, textAlign: 'center' }}>
                     <h3 style={{ fontSize: 20, fontWeight: 700, marginBottom: 16, color: '#111' }}>Ready for more?</h3>
-                    <Link href="/article/sushi-sake-pairing-guide-part-2" style={{ display: 'inline-block', padding: '16px 32px', background: '#111', color: '#fff', textDecoration: 'none', borderRadius: 30, fontSize: 18, fontWeight: 600, transition: 'background 0.2s', boxShadow: '0 4px 14px rgba(0,0,0,0.1)' }}>
-                        Read Part 2: The Science of Pairing →
-                    </Link>
+                    <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>
+                        <Link href="/article/sushi-sake-pairing-guide-part-2" style={{ display: 'inline-block', padding: '16px 32px', background: '#111', color: '#fff', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'background 0.2s', boxShadow: '0 4px 14px rgba(0,0,0,0.1)' }}>
+                            Part 2: Chemistry & Terroir →
+                        </Link>
+                        <Link href="/article/sushi-sake-pairing-guide-part-3" style={{ display: 'inline-block', padding: '16px 32px', background: '#fff', border: '2px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'background 0.2s', boxShadow: '0 4px 14px rgba(0,0,0,0.05)' }}>
+                            Part 3: Practical Edition →
+                        </Link>
+                    </div>
                 </div>
 
             </div>
