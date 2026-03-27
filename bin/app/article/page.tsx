@@ -6,6 +6,14 @@ import Link from 'next/link';
 // Array of article metadata based on previously built pages
 const articles = [
   {
+    title: "おりがらみ日本酒とは？にごり酒との違いを徹底解説",
+    summary: "おりがらみの魅力から、にごり酒との明確な違い、一番美味しい飲み方までを日本酒のプロが徹底解説します。",
+    path: "/article/origarami-sake-guide",
+    image: "/images/origarami_sake_hero_2.png",
+    category: "Sake Guide",
+    tagColor: "#e67e22"
+  },
+  {
     title: "和食と日本酒ペアリングの基本（同調と補完）",
     summary: "ユネスコ無形文化遺産の和食をもっと美味しく。お刺身や天ぷらに合わせる日本酒選びの基本「2つの方程式」をプロが解説します。",
     path: "/article/washoku-sake-pairing-part-1",
