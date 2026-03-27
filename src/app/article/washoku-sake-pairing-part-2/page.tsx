@@ -104,7 +104,7 @@ export default function WashokuPairingPart2() {
                             </p>
                             <div style={{ marginTop: 24, padding: 20, background: '#fff', borderRadius: 8, border: '1px solid #ffcccc' }}>
                                 <div style={{ fontSize: 13, fontWeight: 700, color: '#eb2f06', marginBottom: 8 }}>💡 自宅で極上の熱燗を楽しむ便利家電</div>
-                                <h4 style={{ fontSize: 18, fontWeight: 700, marginBottom: 8 }}>ツインバード 卓上酒燗器</h4>
+                                <h4 style={{ fontSize: 18, fontWeight: 700, marginBottom: 8 }}>酒燗器 2.5合 （丸山技研）</h4>
                                 <p style={{ fontSize: 14, color: '#555', marginBottom: 16 }}>
                                     お鍋を使わずに、卓上で簡単にベストな温度のお燗を作れる便利な酒燗器。これ一つあるだけで、冬の晩酌のクオリティが劇的に変わります。
                                 </p>
