@@ -6,7 +6,7 @@ export default function WashokuPairingPart2() {
         <article style={{ fontFamily: '"Noto Serif JP", "Mincho", serif', lineHeight: 1.8, color: '#2c2c2c', backgroundColor: '#faf9f5' }}>
             
             {/* Hero Section */}
-            <header style={{ position: 'relative', height: '60vh', minHeight: 400, display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' }}>
+            <header style={{ position: 'relative', height: '40vh', minHeight: 260, maxHeight: 400, display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' }}>
                 <div style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 1 }}>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img 
