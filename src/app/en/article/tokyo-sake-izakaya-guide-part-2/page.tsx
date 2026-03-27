@@ -23,7 +23,7 @@ export default function TokyoSakeIzakayaGuidePart2Page() {
                 <p style={{ fontSize: 18, lineHeight: 1.8, color: '#444', marginBottom: 60 }}>
                     Welcome to Part 2 of our guide to the best Japanese sake spots in Tokyo. Whether you're looking for an unforgettable pairing experience, incredible cost-performance, or expert guidance, Tokyo has something for every sake lover. Let's dive into these 5 newly selected gems!
                     <br/><br/>
-                    <Link href="/article/tokyo-sake-izakaya-guide-part-1" style={{ color: '#0066cc', textDecoration: 'underline' }}>Read Part 1: Top 5 Sake Izakayas (Classics & Styling)</Link>
+                    <Link href="/en/article/tokyo-sake-izakaya-guide-part-1" style={{ color: '#0066cc', textDecoration: 'underline' }}>Read Part 1: Top 5 Sake Izakayas (Classics & Styling)</Link>
                 </p>
 
                 {/* Section 1: Food & Sake Pairing Excellence */}
@@ -203,7 +203,7 @@ export default function TokyoSakeIzakayaGuidePart2Page() {
                     </ul>
 
                     <div style={{ marginTop: 24, padding: '16px', background: '#fff', borderRadius: 8, border: '1px solid #ddd', textAlign: 'center' }}>
-                        <Link href="/article/tokyo-sake-izakaya-guide-part-3" style={{ fontSize: 18, fontWeight: 700, color: '#d91515', textDecoration: 'none' }}>
+                        <Link href="/en/article/tokyo-sake-izakaya-guide-part-3" style={{ fontSize: 18, fontWeight: 700, color: '#d91515', textDecoration: 'none' }}>
                             Next up: Read Part 3 (Ultimate Sake & Sushi Pairing Destinations) →
                         </Link>
                     </div>

@@ -221,10 +221,10 @@ export default function SushiSakePairingGuidePart3() {
                 <div style={{ marginTop: 60, display: 'flex', flexDirection: 'column', gap: 16, alignItems: 'center' }}>
                     <h3 style={{ fontSize: 18, fontWeight: 600, color: '#666' }}>Review Previous Chapters</h3>
                     <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', justifyContent: 'center' }}>
-                        <Link href="/article/sushi-sake-pairing-guide" style={{ padding: '12px 24px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 15, fontWeight: 600, transition: 'all 0.2s' }}>
+                        <Link href="/en/article/sushi-sake-pairing-guide" style={{ padding: '12px 24px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 15, fontWeight: 600, transition: 'all 0.2s' }}>
                             ← Part 1: Akazu vs Shirozu
                         </Link>
-                        <Link href="/article/sushi-sake-pairing-guide-part-2" style={{ padding: '12px 24px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 15, fontWeight: 600, transition: 'all 0.2s' }}>
+                        <Link href="/en/article/sushi-sake-pairing-guide-part-2" style={{ padding: '12px 24px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 15, fontWeight: 600, transition: 'all 0.2s' }}>
                             ← Part 2: Synergy & Terroir
                         </Link>
                     </div>

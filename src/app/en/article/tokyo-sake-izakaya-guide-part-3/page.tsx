@@ -23,7 +23,7 @@ export default function TokyoSakeIzakayaGuidePart3Page() {
                 <p style={{ fontSize: 18, lineHeight: 1.8, color: '#444', marginBottom: 60 }}>
                     Welcome to the grand finale of our Tokyo Sake Guide. Finding the perfect synergy between a delicate dish and the right sip of sake is an enchanting, blissful experience. In this final installment, we highlight 5 extraordinary spots: from pairing innovators and introduction-only secret bars to a neon-lit casual spot where you can craft your own combinations!
                     <br/><br/>
-                    <Link href="/article/tokyo-sake-izakaya-guide-part-2" style={{ color: '#0066cc', textDecoration: 'underline' }}>Read Part 2: Cost-Performance & Pro-Guided Spots</Link>
+                    <Link href="/en/article/tokyo-sake-izakaya-guide-part-2" style={{ color: '#0066cc', textDecoration: 'underline' }}>Read Part 2: Cost-Performance & Pro-Guided Spots</Link>
                 </p>
 
                 {/* Section 1: Ultimate Pairing Experience */}
@@ -213,8 +213,8 @@ export default function TokyoSakeIzakayaGuidePart3Page() {
                 <div style={{ padding: '24px', background: '#ffe4e1', borderRadius: 8, marginBottom: 60, textAlign: 'center' }}>
                     <h3 style={{ fontSize: 18, fontWeight: 800, color: '#111', marginBottom: 12 }}>Check out the rest of the Guide:</h3>
                     <div style={{ display: 'flex', justifyContent: 'center', gap: '24px', flexWrap: 'wrap' }}>
-                        <Link href="/article/tokyo-sake-izakaya-guide-part-1" style={{ color: '#0055aa', textDecoration: 'underline', fontWeight: 600 }}>← Read Part 1 (Classics)</Link>
-                        <Link href="/article/tokyo-sake-izakaya-guide-part-2" style={{ color: '#0055aa', textDecoration: 'underline', fontWeight: 600 }}>← Read Part 2 (Cost & Pros)</Link>
+                        <Link href="/en/article/tokyo-sake-izakaya-guide-part-1" style={{ color: '#0055aa', textDecoration: 'underline', fontWeight: 600 }}>← Read Part 1 (Classics)</Link>
+                        <Link href="/en/article/tokyo-sake-izakaya-guide-part-2" style={{ color: '#0055aa', textDecoration: 'underline', fontWeight: 600 }}>← Read Part 2 (Cost & Pros)</Link>
                     </div>
                 </div>
 

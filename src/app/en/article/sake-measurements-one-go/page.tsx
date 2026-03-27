@@ -195,7 +195,7 @@ export default function SakeMeasurementsOneGo() {
 
                 {/* Navigation Back */}
                 <div style={{ marginTop: 60, borderTop: '1px solid #eaeaea', paddingTop: 40, textAlign: 'center' }}>
-                    <Link href="/article/sushi-sake-pairing-guide" style={{ display: 'inline-block', padding: '12px 32px', background: '#fff', border: '2px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'background 0.2s' }}>
+                    <Link href="/en/article/sushi-sake-pairing-guide" style={{ display: 'inline-block', padding: '12px 32px', background: '#fff', border: '2px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'background 0.2s' }}>
                         Explore the Sushi & Sake Pairing Guide →
                     </Link>
                 </div>

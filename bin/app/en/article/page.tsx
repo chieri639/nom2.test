@@ -3,47 +3,71 @@
 import React from 'react';
 import Link from 'next/link';
 
-// Array of article metadata for Japanese content
+// Array of article metadata for English content
 const articles = [
   {
-    title: "おりがらみ日本酒とは？にごり酒との違いを徹底解説",
-    summary: "おりがらみの魅力から、にごり酒との明確な違い、一番美味しい飲み方までを日本酒のプロが徹底解説します。",
-    path: "/article/origarami-sake-guide",
-    image: "/images/origarami_sake_hero_2.png",
-    category: "Sake Guide",
+    title: "The Ultimate Guide to Sake Measurements: What is \"1 Go\"?",
+    summary: "Confused by sake servings in Japan? Learn about traditional measurements like \"1 Go\", smart drinking tips, and comparing sake calories to beer.",
+    path: "/en/article/sake-measurements-one-go",
+    image: "/images/izakaya_uraya_real.jpg",
+    category: "Guide",
     tagColor: "#e67e22"
   },
   {
-    title: "和食と日本酒ペアリングの基本（同調と補完）",
-    summary: "ユネスコ無形文化遺産の和食をもっと美味しく。お刺身や天ぷらに合わせる日本酒選びの基本「2つの方程式」をプロが解説します。",
-    path: "/article/washoku-sake-pairing-part-1",
-    image: "/images/washoku_pairing_hero_1.png",
-    category: "和食 Pairing",
-    tagColor: "#27ae60"
+    title: "Tokyo Sake Izakaya Guide Part 1: Top 5 Spots",
+    summary: "Discover Tokyo's best sake izakayas curated by a Master Sommelier. From casual craft sake spots to Michelin-level sushi experiences.",
+    path: "/en/article/tokyo-sake-izakaya-guide-part-1",
+    image: "/images/izakaya_uoyakio.png",
+    category: "Izakaya Guide",
+    tagColor: "#8e44ad"
   },
   {
-    title: "和食ペアリングの真髄（だしの旨味と温度）",
-    summary: "和食の要である「だしの旨味」と、日本酒特有の「お燗（温度変化）」がもたらす爆発的な旨味の相乗効果について解説します。",
-    path: "/article/washoku-sake-pairing-part-2",
-    image: "/images/washoku_pairing_hero_2.png",
-    category: "和食 Pairing",
-    tagColor: "#27ae60"
+    title: "Tokyo Sake Izakaya Guide Part 2: Cost & Pro-Guided",
+    summary: "Looking for incredible sake on a budget? Explore 5 spots offering amazing cost-performance and English-speaking sake professionals.",
+    path: "/en/article/tokyo-sake-izakaya-guide-part-2",
+    image: "/images/izakaya_suisui_real.jpg",
+    category: "Izakaya Guide",
+    tagColor: "#8e44ad"
   },
   {
-    title: "四季の「旬」と「テロワール」を味わう（応用編）",
-    summary: "春夏秋冬の旬の和食と季節の日本酒。そして「海の幸には海の酒」といった地産地消のテロワールの世界をご紹介します。",
-    path: "/article/washoku-sake-pairing-part-3",
-    image: "/images/washoku_pairing_hero_3.png",
-    category: "和食 Pairing",
-    tagColor: "#27ae60"
+    title: "Tokyo Sake Izakaya Guide Part 3: Ultimate Pairing",
+    summary: "The pinnacle of Tokyo's sake scene. Find introduction-only premium VIP bars and casual neon-lit tasting spots where you control the pairing.",
+    path: "/en/article/tokyo-sake-izakaya-guide-part-3",
+    image: "/images/izakaya_platinumfish_real.jpg",
+    category: "Izakaya Guide",
+    tagColor: "#8e44ad"
+  },
+  {
+    title: "Sushi & Sake Pairing Guide (Part 1: Basics)",
+    summary: "Unlock the secrets of Edomae sushi. Learn the fundamental differences between Akazu (Red Vinegar) and Shirozu (White Vinegar) sushi rice.",
+    path: "/en/article/sushi-sake-pairing-guide",
+    image: "/images/akazu_infographic.png",
+    category: "Pairing",
+    tagColor: "#c0392b"
+  },
+  {
+    title: "Sushi & Sake Pairing Guide (Part 2: Science)",
+    summary: "Dive deep into the science behind pairing. Discover how the 'Wash Effect', umami synergy, and terroir elevate your sushi dining experience.",
+    path: "/en/article/sushi-sake-pairing-guide-part-2",
+    image: "/images/part2_wash_effect.png",
+    category: "Pairing",
+    tagColor: "#c0392b"
+  },
+  {
+    title: "Sushi & Sake Pairing Guide (Part 3: Progression)",
+    summary: "Master the art of the multi-course Omakase. Learn exactly which sakes to order from delicate white fish starters to rich, fatty tuna pieces.",
+    path: "/en/article/sushi-sake-pairing-guide-part-3",
+    image: "/images/page_top.png",
+    category: "Pairing",
+    tagColor: "#c0392b"
   }
 ];
 
-export default function ArticleIndexPage() {
+export default function EnglishArticleIndexPage() {
     return (
         <div style={{ backgroundColor: '#fdfdfd', minHeight: '100vh', paddingBottom: 80, fontFamily: '"Noto Sans JP", -apple-system, sans-serif' }}>
             
-            {/* Hero Banner (Japanese) */}
+            {/* Hero Banner (English) */}
             <header style={{ 
                 background: 'linear-gradient(135deg, #1A1A1D 0%, #2b1A33 100%)', 
                 color: '#fff', 
@@ -52,19 +76,19 @@ export default function ArticleIndexPage() {
                 marginBottom: 60
             }}>
                 <div style={{ maxWidth: 800, margin: '0 auto' }}>
-                    <h1 style={{ fontSize: 'clamp(32px, 5vw, 48px)', fontWeight: 800, marginBottom: 24, letterSpacing: '-0.02em', lineHeight: 1.3 }}>
-                        日本酒をもっと深く、もっと美味しく。
+                    <h1 style={{ fontSize: 'clamp(36px, 6vw, 56px)', fontWeight: 800, marginBottom: 24, letterSpacing: '-0.02em', lineHeight: 1.2 }}>
+                        Discover Sake & Tokyo
                     </h1>
-                    <p style={{ fontSize: 18, color: 'rgba(255,255,255,0.9)', lineHeight: 1.7, maxWidth: 640, margin: '0 auto' }}>
-                        和食とのペアリング理論や、おすすめの飲み方など、充実した日本酒ライフを送るための特集記事をお届けします。
+                    <p style={{ fontSize: 20, color: 'rgba(255,255,255,0.9)', lineHeight: 1.6, maxWidth: 640, margin: '0 auto' }}>
+                        Curated English guides for enthusiasts. From the fundamentals of <em>Edomae</em> sushi pairing to Tokyo's best hidden <em>Izakayas</em>.
                     </p>
                 </div>
             </header>
 
             {/* Language Switch CTA */}
             <div style={{ maxWidth: 1200, margin: '0 auto 40px', padding: '0 32px', textAlign: 'right' }}>
-                <Link href="/en/article" style={{ display: 'inline-flex', alignItems: 'center', backgroundColor: '#f0f2f5', color: '#1a1a1d', padding: '10px 20px', borderRadius: 24, textDecoration: 'none', fontWeight: 700, fontSize: 14, transition: 'background-color 0.2s' }}>
-                    <span style={{ fontSize: 18, marginRight: 8 }}>🇬🇧</span> English Guides for Travelers →
+                <Link href="/article" style={{ display: 'inline-flex', alignItems: 'center', backgroundColor: '#f0f2f5', color: '#1a1a1d', padding: '10px 20px', borderRadius: 24, textDecoration: 'none', fontWeight: 700, fontSize: 13, transition: 'background-color 0.2s' }}>
+                    <span style={{ fontSize: 18, marginRight: 8 }}>🇯🇵</span> 国内メディアの特集記事はこちら（Japanese）
                 </Link>
             </div>
 
@@ -104,7 +128,7 @@ export default function ArticleIndexPage() {
                                     {article.category}
                                 </span>
                                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                                <img src={article.image} alt={article.title} style={{ width: '100%', height: '100%', objectFit: 'cover' }} onError={(e) => { e.currentTarget.src = "/images/origarami_sake_hero_2.png"; }} />
+                                <img src={article.image} alt={article.title} style={{ width: '100%', height: '100%', objectFit: 'cover' }} onError={(e) => { e.currentTarget.src = "/images/izakaya_sakelab.png"; }} />
                             </div>
 
                             <div style={{ padding: 24, display: 'flex', flexDirection: 'column', flexGrow: 1 }}>
@@ -115,7 +139,7 @@ export default function ArticleIndexPage() {
                                     {article.summary}
                                 </p>
                                 <div style={{ display: 'inline-block', color: '#bfa758', fontWeight: 700, fontSize: 14, alignSelf: 'flex-start' }}>
-                                    記事を読む →
+                                    Read Guide →
                                 </div>
                             </div>
                         </article>

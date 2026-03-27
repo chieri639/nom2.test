@@ -114,10 +114,10 @@ export default function SushiSakePairingGuidePart2() {
                         "Wash effect" cuts through fat. "Umami synergy" creates explosions of flavor. And the subtle differences in "terroir"—like hard minerality vs soft purity—dictate the perfect marriage on your palate. Ready for the final step?
                     </p>
                     <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>
-                        <Link href="/article/sushi-sake-pairing-guide" style={{ padding: '16px 32px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'all 0.2s' }}>
+                        <Link href="/en/article/sushi-sake-pairing-guide" style={{ padding: '16px 32px', border: '1px solid #111', color: '#111', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'all 0.2s' }}>
                             ← Back to Part 1: Vinegar Base
                         </Link>
-                        <Link href="/article/sushi-sake-pairing-guide-part-3" style={{ padding: '16px 32px', background: '#111', color: '#fff', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'all 0.2s', boxShadow: '0 4px 14px rgba(0,0,0,0.1)' }}>
+                        <Link href="/en/article/sushi-sake-pairing-guide-part-3" style={{ padding: '16px 32px', background: '#111', color: '#fff', textDecoration: 'none', borderRadius: 30, fontSize: 16, fontWeight: 600, transition: 'all 0.2s', boxShadow: '0 4px 14px rgba(0,0,0,0.1)' }}>
                             Part 3: Practical Edition →
                         </Link>
                     </div>
