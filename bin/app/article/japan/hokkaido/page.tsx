@@ -66,8 +66,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             世界最大の酒類コンクールで長年金賞を受賞し続けるなど、「世界のOTOKOYAMA」として絶大な知名度を誇ります。特徴は雪の中を流れるような透明感のある「淡麗辛口」。魚介類との相性は無敵です。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 男山の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/3fd47121.eb692916.3fd47123.3820da63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatashoweb%2F0006-76891-gift%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/3fd47121.eb692916.3fd47123.3820da63/?me_id=1378316&item_id=10009358&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fwatashoweb%2Fcabinet%2Fshohin%2F07214987%2F76891-02.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="男山" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -78,8 +81,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             1899年創業。「国士無双」という非常に有名で力強いブランドを擁します。大自然の荒々しさをも思わせるような超淡麗でキリッとした鋭い辛口が特徴で、毎日の晩酌で飲み飽きない本格派の食中酒です。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 高砂酒造（国士無双）の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/4505c97a.4a2fc121.4505c97b.a33e306f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaidouselectshop%2Fdaiginjoset-kokusimusou%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/4505c97a.4a2fc121.4505c97b.a33e306f/?me_id=1422749&item_id=10000064&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhokkaidouselectshop%2Fcabinet%2Ftanpin%2Fimgrc0092282977.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="高砂酒造 国士無双" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -90,8 +96,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             最新の醸造設備を備えながらも、北海道産米100％と長年培った確かな技術で高品質な酒造りを行っています。華やかな香りとふくらみのある味わいが特徴で、幅広い層から支持されています。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 合同酒精（大雪乃蔵）の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/4b102189.734e4a11.4b10218a.b3e69aaa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyo-sake%2F9610020a06%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/4b102189.734e4a11.4b10218a.b3e69aaa/?me_id=1345661&item_id=10393884&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyo-sake%2Fcabinet%2F01%2F02%2Fy9610020a06.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="合同酒精 大雪乃蔵" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -102,8 +111,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             2017年に地方創生蔵として新設され、現在上川、帯広、函館の3拠点に蔵を構えます。手造りの小仕込みを徹底し、「飲まさる酒（ついつい飲んでしまう酒）」をコンセプトにしたフレッシュでジューシーな味わいで、現代の道産酒のトップランナーです。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 上川大雪酒造の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/5256fedd.8f3daca7.5256fede.f7c2a562/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichiishop%2F8289162%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/5256fedd.8f3daca7.5256fede.f7c2a562/?me_id=1218852&item_id=10018445&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fichiishop%2Fcabinet%2F62%2F8289162_1.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="上川大雪酒造" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -114,8 +126,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             140年以上の歴史を持つ岐阜県中津川市の老舗蔵が、2020年に豊かな水と環境を求めて北海道東川町へ「蔵ごと移住」したことで一躍話題に。北海道の水と米を使って醸す最新鋭のクリアな味わいが絶賛されています。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 三千櫻酒造の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/3ea9595e.4cdaff8d.3ea9595f.1114665b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeishu-honpo%2F21514%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/3ea9595e.4cdaff8d.3ea9595f.1114665b/?me_id=1279274&item_id=10006163&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fmeishu-honpo%2Fcabinet%2F14%2F21514_1.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="三千櫻酒造" title="" />
+                            </a>
                         </div>
                     </div>
                 </section>
@@ -144,8 +159,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             1872年創業、札幌の発展と共に歩んできた北海道を代表する老舗。全国新酒鑑評会でも数多くの金賞を受賞し、豊平川の伏流水で仕込まれた滑らかで洗練された味わいが札幌市民に愛され続けています。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 日本清酒（千歳鶴）の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/4505c97a.4a2fc121.4505c97b.a33e306f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaidouselectshop%2Fchitose-jg%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/4505c97a.4a2fc121.4505c97b.a33e306f/?me_id=1422749&item_id=10000223&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhokkaidouselectshop%2Fcabinet%2Fnihonsyu%2Fchitosetsuru.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="日本清酒 千歳鶴" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -156,8 +174,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             小樽で1899年から続く唯一の造り酒屋。北海道産米を100％使用することにこだわり、一年中常に新しい酒を醸造する「四季醸造」を行っている稀有な蔵です。搾りたてのフレッシュな生酒をいつでも楽しむことができます。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 田中酒造（宝川）の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/3fd47121.eb692916.3fd47123.3820da63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatashoweb%2F0006-71953%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/3fd47121.eb692916.3fd47123.3820da63/?me_id=1378316&item_id=10001083&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fwatashoweb%2Fcabinet%2Fshohin%2F07214987%2F71953-03.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="田中酒造 宝川" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -168,8 +189,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             1906年創業。北海道の穀倉地帯のど真ん中に位置し、新十津川町内産の酒造好適米「吟風」の使用率が非常に高いのが特徴です。昔ながらの手造りにこだわり、ふっくらとした米の旨味を感じさせる芳醇な酒を醸します。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 金滴酒造の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/3fd47121.eb692916.3fd47123.3820da63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatashoweb%2F0006-76039%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/3fd47121.eb692916.3fd47123.3820da63/?me_id=1378316&item_id=10009340&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fwatashoweb%2Fcabinet%2Fshohin%2F07214987%2F76039-02.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="金滴酒造" title="" />
+                            </a>
                         </div>
                     </div>
 
@@ -180,8 +204,11 @@ export default function HokkaidoSakeGuide() {
                         <p style={{ fontSize: 16, color: '#444', marginBottom: 20, lineHeight: 1.7 }}>
                             炭鉱の町として栄えた夕張エリアで「坑夫たちを労う酒」として発展。現在では道産米をいち早く酒造りに取り入れたパイオニアとしても知られます。重厚で力強い、どっしりとしたお米の旨味を感じられる男酒です。
                         </p>
-                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #ccc', borderRadius: 8 }}>
-                            <p style={{ margin: 0, fontSize: 14, color: '#888' }}>[TODO: 小林酒造（北の錦）の楽天アフィリエイトリンク挿入枠]</p>
+                        <div style={{ background: '#f8f9fa', padding: '24px', textAlign: 'center', border: '1px dashed #e9ecef', borderRadius: 8 }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <a href="https://hb.afl.rakuten.co.jp/ichiba/3fd47119.4a5c2fbe.3fd4711b.669374e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoriwaki%2Fkk1s4950874171923%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjMwMHgzMDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener" style={{ wordWrap: 'break-word', display: 'inline-block' }}>
+                                <img src="https://hbb.afl.rakuten.co.jp/hgb/3fd47119.4a5c2fbe.3fd4711b.669374e2/?me_id=1306045&item_id=10004344&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fmoriwaki%2Fcabinet%2F25254%2F1%2Fkk1s4950874171923-1.jpg%3F_ex%3D300x300&s=300x300&t=pict" style={{ margin: '2px', border: 0 }} alt="小林酒造 北の錦" title="" />
+                            </a>
                         </div>
                     </div>
 
