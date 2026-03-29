@@ -6,6 +6,14 @@ import Link from 'next/link';
 // Array of article metadata for Japanese content
 const articles = [
   {
+    title: "【2026年最新】北海道の日本酒マップ！人気3酒蔵を徹底解説",
+    summary: "かつての辛口一辺倒から、全国随一のプレミアム産地へと進化した北海道。おすすめ酒蔵「上川大雪」「男山」「国士無双」をプロが解説。",
+    path: "/article/hokkaido-sake-guide",
+    image: "/images/hokkaido_sake_hero.png",
+    category: "Regional Guide",
+    tagColor: "#3498db"
+  },
+  {
     title: "おりがらみ日本酒とは？にごり酒との違いを徹底解説",
     summary: "おりがらみの魅力から、にごり酒との明確な違い、一番美味しい飲み方までを日本酒のプロが徹底解説します。",
     path: "/article/origarami-sake-guide",
