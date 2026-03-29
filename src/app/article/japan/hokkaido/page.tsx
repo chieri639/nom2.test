@@ -45,6 +45,16 @@ export default function HokkaidoSakeGuide() {
                     <h2 style={{ fontSize: 32, fontWeight: 700, marginBottom: 32, color: '#1a1a1a', borderLeft: '4px solid #bfa758', paddingLeft: 16 }}>
                         【上川・大雪エリア】名水と極寒が育む一大産地
                     </h2>
+                    
+                    <div style={{ textAlign: 'center', marginBottom: 32 }}>
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img 
+                            src="/images/hokkaido_map_kamikawa.png" 
+                            alt="上川・大雪エリアのマップ" 
+                            style={{ width: '100%', maxWidth: 400, borderRadius: 12, border: '1px solid #f0f0f0' }} 
+                        />
+                    </div>
+
                     <p style={{ fontSize: 17, marginBottom: 40 }}>
                         大雪山系の豊かな伏流水と盆地特有の厳しい寒暖差を併せ持つ、北海道を代表する酒造りのメッカです。
                     </p>
@@ -118,6 +128,15 @@ export default function HokkaidoSakeGuide() {
                         【道央・札幌・小樽エリア】歴史を紡ぐ開拓の魂
                     </h2>
 
+                    <div style={{ textAlign: 'center', marginBottom: 32 }}>
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img 
+                            src="/images/hokkaido_map_doo.png" 
+                            alt="道央・札幌・小樽エリアのマップ" 
+                            style={{ width: '100%', maxWidth: 400, borderRadius: 12, border: '1px solid #f0f0f0' }} 
+                        />
+                    </div>
+
                     {/* Brewery 6: Nippon Seishu */}
                     <div style={{ padding: 24, background: '#fff', borderRadius: 8, border: '1px solid #e9ecef', marginBottom: 24 }}>
                         <h3 style={{ fontSize: 22, fontWeight: 700, margin: '0 0 12px' }}>6. 日本清酒</h3>
@@ -186,6 +205,15 @@ export default function HokkaidoSakeGuide() {
                     <h2 style={{ fontSize: 32, fontWeight: 700, marginBottom: 32, color: '#1a1a1a', borderLeft: '4px solid #bfa758', paddingLeft: 16 }}>
                         【道北・道東・道南エリア】過酷な自然に寄り添う最果ての蔵
                     </h2>
+
+                    <div style={{ textAlign: 'center', marginBottom: 32 }}>
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img 
+                            src="/images/hokkaido_map_others.png" 
+                            alt="道北・道東・道南エリアのマップ" 
+                            style={{ width: '100%', maxWidth: 400, borderRadius: 12, border: '1px solid #f0f0f0' }} 
+                        />
+                    </div>
 
                     {/* Brewery 11: Kokumare */}
                     <div style={{ padding: 24, background: '#fff', borderRadius: 8, border: '1px solid #e9ecef', marginBottom: 24 }}>
