@@ -1,0 +1,13 @@
+{
+  "name": "nom2-article-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "nom2.jp 記事自動生成エージェント（リサーチ→執筆→楽天アフィリ→画像生成→MicroCMS下書き）",
+  "scripts": {
+    "selftest": "node scripts/selftest.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
