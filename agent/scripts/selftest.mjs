@@ -2,6 +2,7 @@ import { listRecent } from "../lib/microcms.mjs";
 import { searchItems } from "../lib/rakuten.mjs";
 import { generateImage } from "../lib/geminiImages.mjs";
 import { uploadImage } from "../lib/githubPublish.mjs";
+import { searchPhoto } from "../lib/pexels.mjs";
 
 async function run(name, fn) {
   process.stdout.write(`\n[${name}] running...\n`);
@@ -62,6 +63,15 @@ if (runAll || args.has("github")) {
     console.log(`  公開URL: ${url}`);
     console.log(`  ※動作確認用のダミーファイルです。不要であればリポジトリから削除してください。`);
     return url;
+  });
+}
+
+if (runAll || args.has("pexels")) {
+  await run("pexels.searchPhoto", async () => {
+    const photo = await searchPhoto("grilled beef steak");
+    console.log(`  imageUrl: ${photo.imageUrl}`);
+    console.log(`  photographer: ${photo.photographer} (${photo.photographerUrl})`);
+    return photo;
   });
 }
 
