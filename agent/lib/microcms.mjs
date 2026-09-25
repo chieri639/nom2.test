@@ -84,5 +84,5 @@ export async function updateDraft(id, fields) {
 export function draftEditUrl(id) {
   const domain = requireEnv("MICROCMS_SERVICE_DOMAIN");
   const endpoint = getEnv("MICROCMS_ENDPOINT", "article");
-  return `https://${domain}.microcms.io/apis/${endpoint}/contents/${id}`;
+  return `https://${domain}.microcms.io/apis/${endpoint}/${id}`;
 }
