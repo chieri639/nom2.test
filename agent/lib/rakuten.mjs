@@ -34,8 +34,12 @@ export async function searchItems(keyword, hits = 5) {
     const item = wrapper.Item;
     // 楽天のサムネイルURLは末尾の_ex=WxHでサイズ指定できる。既定の128x128は
     // 商品詳細ページ等で大きく表示すると粗くなるため600x600に引き上げる。
-    const rawImageUrl = item.mediumImageUrls?.[0]?.imageUrl ?? "";
-    const imageUrl = rawImageUrl.replace(/_ex=\d+x\d+/, "_ex=600x600");
+    // 商品画像は複数枚ある。1枚目に人物（蔵元など）の切り抜きが入る販売店があるため、
+    // 全枚数をimageUrlsで返す。記事に使う前に必ず目視し、人物が写っていれば2枚目以降か別店舗にする。
+    const imageUrls = (item.mediumImageUrls ?? [])
+      .map((m) => (m.imageUrl ?? "").replace(/_ex=\d+x\d+/, "_ex=600x600"))
+      .filter(Boolean);
+    const imageUrl = imageUrls[0] ?? "";
     return {
       name: item.itemName,
       price: item.itemPrice,
@@ -43,6 +47,7 @@ export async function searchItems(keyword, hits = 5) {
       itemUrl: item.itemUrl,
       affiliateUrl: item.affiliateUrl || item.itemUrl,
       imageUrl,
+      imageUrls,
     };
   });
 }
